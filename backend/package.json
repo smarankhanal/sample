@@ -1,7 +1,18 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "cros": "^1.1.0",
     "express": "^5.1.0",
     "node": "^24.8.0"
-  }
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
